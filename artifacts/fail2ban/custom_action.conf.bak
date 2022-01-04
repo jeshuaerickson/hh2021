@@ -1,0 +1,10 @@
+[Definition]
+
+actionstart = iptables -N custom_jail
+              iptables -A custom_jail -j RETURN
+              iptables -I INPUT -j custom_jail
+actionban   = iptables -I custom_jail 1 -s <ip> -j REJECT
+actionunban = iptables -D custom_jail -s <ip> -j REJECT
+actionstop  = iptables -D INPUT -j custom_jail
+              iptables -F
+              iptables -X custom_jail
