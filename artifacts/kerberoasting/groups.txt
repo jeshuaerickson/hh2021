@@ -1,0 +1,303 @@
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : GenericRead
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : NT AUTHORITY\Authenticated Users
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : GenericAll
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : NT AUTHORITY\SYSTEM
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : CreateChild, DeleteChild, Self, WriteProperty, 
+                        ExtendedRight, Delete, GenericRead, WriteDacl, 
+                        WriteOwner
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Administrators
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : CreateChild, DeleteChild, Self, WriteProperty, 
+                        ExtendedRight, GenericRead, WriteDacl, WriteOwner
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : ELFU\Domain Admins
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : CreateChild, DeleteChild, Self, WriteProperty, 
+                        ExtendedRight, GenericRead, WriteDacl, WriteOwner
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : ELFU\Enterprise Admins
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ExtendedRight
+InheritanceType       : None
+ObjectType            : ab721a53-1e2f-11d0-9819-00aa0040529b
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : Everyone
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty, WriteProperty, ExtendedRight
+InheritanceType       : All
+ObjectType            : 91e647de-d96f-4b70-9557-d63ff4f3ccd8
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : NT AUTHORITY\SELF
+IsInherited           : False
+InheritanceFlags      : ContainerInherit
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ExtendedRight
+InheritanceType       : None
+ObjectType            : ab721a53-1e2f-11d0-9819-00aa0040529b
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : NT AUTHORITY\SELF
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 037088f8-0ae1-11d2-b422-00a0c968f939
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 037088f8-0ae1-11d2-b422-00a0c968f939
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 4c164200-20c0-11d0-a768-00aa006e0529
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 59ba2f42-79a2-11d0-9020-00c04fc2d3cf
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : bc0ac240-79a9-11d0-9020-00c04fc2d4cf
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : bc0ac240-79a9-11d0-9020-00c04fc2d4cf
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : GenericRead
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : GenericRead
+InheritanceType       : None
+ObjectType            : 00000000-0000-0000-0000-000000000000
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : None
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 59ba2f42-79a2-11d0-9020-00c04fc2d3cf
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 5f202010-79a5-11d0-9020-00c04fc2d4cf
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 4c164200-20c0-11d0-a768-00aa006e0529
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Pre-Windows 2000 Compatible Access
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty
+InheritanceType       : None
+ObjectType            : 46a9b11d-60ae-405a-b7e8-ff8a58d456d2
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Windows Authorization Access Group
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty, WriteProperty
+InheritanceType       : None
+ObjectType            : 6db69a1c-9422-11d1-aebd-0000f80367c1
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Terminal Server License Servers
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty, WriteProperty
+InheritanceType       : None
+ObjectType            : 5805bc62-bdc9-4428-a5e2-856a0f4c185e
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : BUILTIN\Terminal Server License Servers
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+
+PSComputerName        : 10.128.1.53
+RunspaceId            : 4461f8fe-017d-4985-9855-39c2fdb68e45
+ActiveDirectoryRights : ReadProperty, WriteProperty
+InheritanceType       : None
+ObjectType            : bf967a7f-0de6-11d0-a285-00aa003049e2
+InheritedObjectType   : 00000000-0000-0000-0000-000000000000
+ObjectFlags           : ObjectAceTypePresent
+AccessControlType     : Allow
+IdentityReference     : ELFU\Cert Publishers
+IsInherited           : False
+InheritanceFlags      : None
+PropagationFlags      : None
+

@@ -1,0 +1,11 @@
+echo "[custom_jail]
+
+enabled = true
+logpath = /var/log/hohono.log
+findtime = 60m
+maxretry = 10
+bantime = 30m
+filter = custom_filter
+action = custom_action" > /etc/fail2ban/filter.d/custom_filter.conf
+
+

@@ -1,0 +1,36 @@
+<html>
+<head>
+<style>
+.error {color: #FF0000;}
+.container {
+    position: relative;
+    margin: auto;
+    width: 30%;
+    top: 200px;
+    padding: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h2>Frost Tower Guest Complaint Form</h2>
+<p><span class="error">* required field</span></p>
+<form method="post" action="guest_complaint.php">
+<table border=0>
+    <tr><td>Name:</td><td><input type="text" name="name" value="">
+    <span class="error">* </span></td></tr>
+    <tr><td>Troll ID:</td><td><input type="text" name="troll_id" value="">
+    <span class="error">* </span></td></tr>
+    <tr><td>Guest Info:</td><td><input type="text" name="guest_info" value="">
+    <span class="error">* </span></td></tr>
+    <tr><td>Describe<br>the<br>incident:</td><td><textarea name="description" rows=5 cols=40></textarea>
+    </td></tr>
+    <tr><td colspan=2><input type="submit" name="submit" value="Submit"></td></tr>
+</table>
+</form>
+</div>
+</body>
+</html>
